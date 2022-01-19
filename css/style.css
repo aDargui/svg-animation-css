@@ -23,8 +23,8 @@ body{
   @-webkit-keyframes feuille {
     0% {
       transform-origin: 50% 50%;
-      -webkit-transform: translateY(0%) translateX(100px);
-      -moz-transform: translateY(0%) translateX(100px);
+      -webkit-transform: translateY(0%) translateX(0px);
+      -moz-transform: translateY(0%) translateX(0px);
       transform: translateY(0%) translateX(0px) rotate(0deg);
     }
     100% {
@@ -129,9 +129,9 @@ body{
   }
 
   #tablette{
-    -webkit-animation: tablette 9s alternate infinite;
-    -moz-animation: tablette 9s alternate infinite;
-    animation: tablette 9s alternate infinite;
+    -webkit-animation: tablette 7s alternate infinite;
+    -moz-animation: tablette 7s alternate infinite;
+    animation: tablette 7s alternate infinite;
   
     -webkit-animation-timing-function: linear;
     -moz-animation-timing-function: linear;
