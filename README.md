@@ -3,4 +3,4 @@
 
 *Lien vers le modèle : www.adargui.com/animation_css
 
-<img src="www.adargui.com/animation_css/animation_css.jpeg">
+<img src="https://www.adargui.com/animation_css/animation_css.jpeg">
